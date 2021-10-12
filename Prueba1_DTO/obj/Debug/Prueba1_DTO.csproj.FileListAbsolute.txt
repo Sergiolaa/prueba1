@@ -1,0 +1,6 @@
+C:\SL\Desa\pru\Prueba1\Prueba1_DTO\bin\Debug\Prueba1_DTO.dll
+C:\SL\Desa\pru\Prueba1\Prueba1_DTO\bin\Debug\Prueba1_DTO.pdb
+C:\SL\Desa\pru\Prueba1\Prueba1_DTO\obj\Debug\Prueba1_DTO.csprojAssemblyReference.cache
+C:\SL\Desa\pru\Prueba1\Prueba1_DTO\obj\Debug\Prueba1_DTO.csproj.CoreCompileInputs.cache
+C:\SL\Desa\pru\Prueba1\Prueba1_DTO\obj\Debug\Prueba1_DTO.dll
+C:\SL\Desa\pru\Prueba1\Prueba1_DTO\obj\Debug\Prueba1_DTO.pdb
